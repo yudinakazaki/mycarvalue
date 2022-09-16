@@ -24,7 +24,7 @@
 
 ## Description
 
-This is a project for trainning my REST API skills using the framework nest
+This is a project for trainning my REST API skills using the framework nest. It uses sqlite as the database and TypeORM as the ORM.
 
 ## Installation
 
